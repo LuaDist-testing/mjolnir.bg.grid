@@ -1,7 +1,7 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "mjolnir.bg.grid"
-version = "0.1-1"
+version = "0.1-2"
 
 -- General metadata:
 
@@ -10,7 +10,7 @@ local desc = "Mjolnir module for moving/resizing your windows along both virtual
 
 -- LuaDist source
 source = {
-  tag = "0.1-1",
+  tag = "0.1-2",
   url = "git://github.com/LuaDist-testing/mjolnir.bg.grid.git"
 }
 -- Original source
